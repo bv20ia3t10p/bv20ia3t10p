@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Phúc, a 3rd year undergrad Computer Information System (CIS) major
+- 👋 Hi, I’m Phúc, a 4th year undergrad Computer Information System (CIS) major
 - 👀 I’m interested in full-stack Web development
-- 🌱 I’m currently learning React.JS, Python
+- 🌱 I’m currently learning React.JS, Python, .NET and Java
